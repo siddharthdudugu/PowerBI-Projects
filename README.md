@@ -1,3 +1,3 @@
 # PowerBI-Projects
 
-### THis folder contains all the PowerBI Projects
+### This folder contains all the PowerBI Projects
